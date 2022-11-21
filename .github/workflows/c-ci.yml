@@ -13,8 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: configure
-      run: ./configure
+    - name: matrix.c
+      run: ./matrix.c
     - name: make
       run: make
     - name: make check
