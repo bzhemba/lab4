@@ -17,7 +17,7 @@ int main() {
             j += 1;
         }
     }
-    return 0
+    return 0;
 }//
 // Created by мария баженова on 21.11.2022.
 //
